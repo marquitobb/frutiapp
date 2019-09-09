@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">frutiapp</string>
+
+    <string name="et_vidas">Manzanas: </string>
+    <string name="jugador_nombre">jugador: </string>
+    <string name="total_score">Score: 0</string>
+    <string name="boton_sumar">comprobar</string>
+    <string name="et_respuesta">respuesta</string>
+</resources>
